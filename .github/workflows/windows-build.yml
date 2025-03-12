@@ -4,5 +4,5 @@ on:
   workflow_dispatch:  # 允许手动触发
 
 jobs:
-  call-windows-build:
+  build-windows:
     uses: tap6/godot/.github/workflows/windows-build.yml@main
