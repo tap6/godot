@@ -5,4 +5,4 @@ on:
 
 jobs:
   call-windows-build:
-    uses: your-repo/your-project/.github/workflows/windows-build.yml@main
+    uses: tap6/godot/.github/workflows/windows-build.yml@main
